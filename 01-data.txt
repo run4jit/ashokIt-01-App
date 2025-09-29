@@ -1,3 +1,6 @@
- task 101 -> completed
+task 101 -> completed 
 task 103 -> working ...
 task 103 -> completed
+
+task 102 -> inprogress
+task 102 -> completed
